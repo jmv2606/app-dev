@@ -7,6 +7,6 @@ IT student from **STI College Malolos**
 - Fast and Furious
 - Rush Hour
 - Need for speed
-Series
+> Series
 - The Walking Dead
 - Lupin
