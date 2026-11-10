@@ -4,6 +4,7 @@ My first repository
 IT student from **STI College Malolos**
 
 ## My favorite movies/series
+> Movies
 - Fast and Furious
 - Rush Hour
 - Need for speed
